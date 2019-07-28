@@ -1,0 +1,37 @@
+#container{
+	width: 400px;
+	height:auto;
+	margin:20px auto;
+	border:20px solid pack;
+	background-color: #00A427;
+}
+#container form{
+	padding:10px;
+}
+#container form label{
+	display: block;
+	width:100px;
+	margin-bottom:10px;
+	font-style: bold;
+	font-size: 12px;
+	font-family: Helvetica;
+}
+#container form input[type=text],
+#container form input[type=email],
+#container form textarea{
+	padding:4px;
+	width: 97%;
+	margin-bottom: 10px;
+}
+#container form input[id=submit]{
+	padding: 4px;
+}
+ 
+h1.heading{
+	display: block;
+	font:16pt Helvetica;
+	font-weight: bold;
+	text-align: center;
+	border-bottom: 2px solid black;
+ 
+}
